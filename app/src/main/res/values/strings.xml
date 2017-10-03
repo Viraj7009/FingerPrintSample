@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FingerprintSample</string>
+    <string name="error_permission_missing">FingerPrint reader permissions missing %s</string>
+    <string name="success_login">Successfully logged into the App</string>
+</resources>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/virajgaikwad/.android/build-cache/58fa1cd62847340577e52bfe624d797e8932bd7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/virajgaikwad/Desktop/studio/FingerprintSample/app/build/intermediates/pre-dexed/debug/classes_84d9bcc69db5a83177d8de3c3627c284a2472ce4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/virajgaikwad/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/virajgaikwad/Desktop/studio/FingerprintSample/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_e62b39b3eebae4d4093ce8bdd10a6ec3aa392901.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/virajgaikwad/.android/build-cache/da9eeea4fe3232186e0e79f4f3cfc5dde5880de8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/virajgaikwad/Desktop/studio/FingerprintSample/app/build/intermediates/pre-dexed/debug/classes_548c46810d61cd8d0d8f216d8aa45de8d0070cc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/virajgaikwad/.android/build-cache/32d3cda69044f1dd925507a43013edadd6fa18cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/virajgaikwad/Desktop/studio/FingerprintSample/app/build/intermediates/pre-dexed/debug/classes_2c5ed038a51ef70ccbef36400010258a15bb2358.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/virajgaikwad/.android/build-cache/433eedbc17ded26ff54c8787bb7b97686bd752e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/virajgaikwad/Desktop/studio/FingerprintSample/app/build/intermediates/pre-dexed/debug/classes_b236223973c4087fda4d88970f319ae225652e03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/virajgaikwad/.android/build-cache/39a2cffe7840f86c8fbff368e8b7f4634e5fe209/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/virajgaikwad/Desktop/studio/FingerprintSample/app/build/intermediates/pre-dexed/debug/classes_9b03cccbbb16c1ba2be63cfd46c5c8a3a52aa6c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/virajgaikwad/.android/build-cache/792048a8bcd9af1cb408f68e24d5a542a006bfaa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/virajgaikwad/Desktop/studio/FingerprintSample/app/build/intermediates/pre-dexed/debug/classes_88e11cf1f4d7bdc7b95ca1325845252ce91e6e6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/virajgaikwad/.android/build-cache/73cc204cbec84970f9cbda4a9cc9c7a5d74e6d0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/virajgaikwad/Desktop/studio/FingerprintSample/app/build/intermediates/pre-dexed/debug/classes_40c503dbcf2444be6394eba78f622954058602ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/virajgaikwad/.android/build-cache/87b8f76a31852cc0293c33322032bc44f77b30f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/virajgaikwad/Desktop/studio/FingerprintSample/app/build/intermediates/pre-dexed/debug/classes_e8ff70ce823c4bb5df004ee1ec7f5fdc200107da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/virajgaikwad/.android/build-cache/2309d213d1d582ae5e087ecc9f33525c566c8a93/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/virajgaikwad/Desktop/studio/FingerprintSample/app/build/intermediates/pre-dexed/debug/classes_7ba42ef038f46ae0b9bf24775f4fbc7b6bad7c83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/virajgaikwad/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/virajgaikwad/Desktop/studio/FingerprintSample/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_f3c731cc60a162fefc3a597729e2106c2225aed2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/virajgaikwad/.android/build-cache/6d4f400d99169afee49da558a0b109b0ccb09623/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/virajgaikwad/Desktop/studio/FingerprintSample/app/build/intermediates/pre-dexed/debug/classes_561cbe8a8a16178f974356b79ddb890ccc95259c.jar" />
+    </item>
+
+</items>
